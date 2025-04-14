@@ -1,4 +1,4 @@
-﻿using static Maths.Maths;
+﻿using static Maths;
 
 Console.WriteLine(Add(1, 2));
 Console.WriteLine(Add(1.1m, 2.2m, 3.3m));
